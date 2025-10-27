@@ -14,4 +14,4 @@ My main hobbies are cooking and competing in powerlifting. At my last powerlifti
   - [Colin VanDervoort on LinkedIn](https://www.linkedin.com/in/colin-vandervoort/)
   - [Colin VanDervoort Gmail](mailto:colin.vandervoort.42@gmail.com)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Most knee pain stems from stability issues at the hip or ankle.
+- ⚡ Fun fact: Knee pain often stems from stability issues at the hip or ankle.

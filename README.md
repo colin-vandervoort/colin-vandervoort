@@ -2,7 +2,7 @@
 
 Software Engineer | Web Developer | AWS
 
-In my career I have primarily worked doing front-end web development, but lately I've been trying to build out my back-end and systems skill sets. Here is my [current resume](./resumes/colin-vandervoort_resume_2026-01-19.pdf).
+In my career I have primarily worked doing front-end web development, but lately I've been building out my back-end and systems skill sets. Here is my [current resume](./resumes/colin-vandervoort_resume_2026-01-19.pdf).
 
 I'm currently looking for job. Use one of the following hyperlinks if you would like to get in touch.
 
